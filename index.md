@@ -26,3 +26,4 @@ and ended up getting the word for the card, also using an if statement to determ
 11, Also have to make if statements to determine the face, number, and if it’s an ace card and add the points 
 together to get your score.
 ---------------------------------------------------------------------------------------------------------------------
+Java
